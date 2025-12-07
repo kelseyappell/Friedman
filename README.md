@@ -36,7 +36,7 @@ RoxygenNote:7.3.3
 Imports: ggplot2, tidyr, dplyr
 
 
-License: This package uses a CCO license. I thought that this license type would be the most
+License: This package uses a MIT license. I thought that this license type would be the most
 appropriate because it allows for a very easily accessible package. This is the most desirable
 circumstance for a class project. I figured nobody would be modifying my package, so I didn't 
 find it necessary to make the package private.
